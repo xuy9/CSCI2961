@@ -1,12 +1,12 @@
 ##Part C.
- ###More suggestions for How To Answer Questions in a Helpful Way:
+ More suggestions for How To Answer Questions in a Helpful Way:
  
   1. Instead of just directly give out the solution, one should tried to explain the logic behind it.
   2. Instead of giving a length answer, one should try to be as concise as possible without compromising the clarity.
   3. Do not just cut and paste answers to similar questions from another website without reading them first.
  
   
-###Short paragraph of what you got out of reading that chapter of Free Culture:
+Short paragraph of what you got out of reading that chapter of Free Culture:
 
  This chapter is about an RPI student getting suited because his improvement on the quality of search on website somehow 
  violet the copyright law. I was very surprise that he got himself a lawsuit. Because i think what he achieve is very impressive. 
@@ -17,7 +17,7 @@
  be curious and willing to explore. The internet is probably a very powerful tool to get start with, if one wish to explore.
  
 ##Part E.
- ###Regex
+ Regex
  
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%205.47.37%20PM.png" width="350px">
  
@@ -27,12 +27,13 @@
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.34%20PM.png" width="350px">
  
 ##Part F. 
- ###Blockly Solution
+ Blockly Solution
+ 
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-01%20at%203.27.13%20PM.png" width="350px">
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-01%20at%203.27.40%20PM.png" width="350px">
  
 ##Part G. 
- ###Write a paragraph how you are doing this activity:
+ Write a paragraph how you are doing this activity:
   In todays lab i learned more about how to use github. I also get familiar with regular expression and Blocky games.
   I installed and practiced features of Ubuntu.
  
