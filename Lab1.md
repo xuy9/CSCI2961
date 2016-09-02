@@ -20,7 +20,7 @@ Short paragraph of what you got out of reading that chapter of Free Culture:
 
  Image of directory structure:
  
- <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.12.10%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.12.10%20PM.png" width="450px">
  
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.12.11%20PM.png" width="350px">
  
@@ -30,9 +30,20 @@ Short paragraph of what you got out of reading that chapter of Free Culture:
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%205.47.37%20PM.png" width="350px">
  
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.36.04%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.23.53%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.23.52%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.23.51%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.23.50%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.23.49%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.23.47%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.23.46%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.23.44%20PM.png" width="350px">
+ 
+ 
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.04%20PM.png" width="350px">
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.32%20PM.png" width="350px">
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.34%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.35%20PM.png" width="350px">
  
 ##Part F. 
  Blockly Solution
