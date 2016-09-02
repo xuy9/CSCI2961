@@ -34,6 +34,7 @@ Short paragraph of what you got out of reading that chapter of Free Culture:
  
 ##Part G. 
  Write a paragraph how you are doing this activity:
+ 
   In todays lab i learned more about how to use github. I also get familiar with regular expression and Blocky games.
   I installed and practiced features of Ubuntu.
  
