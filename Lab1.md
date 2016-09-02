@@ -21,15 +21,15 @@
  
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%205.47.37%20PM.png" width="350px">
  
- (https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.36.04%20PM.png?raw=true)
- (https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.04%20PM.png?raw=true)
- (https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.32%20PM.png?raw=true)
- (https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.34%20PM.png?raw=true)
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.36.04%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.04%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.32%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-08-30%20at%207.42.34%20PM.png" width="350px">
  
 ##Part F. 
  ###Blockly Solution
- (https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-01%20at%203.27.13%20PM.png?raw=true)
- (https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-01%20at%203.27.40%20PM.png?raw=true)
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-01%20at%203.27.13%20PM.png" width="350px">
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-01%20at%203.27.40%20PM.png" width="350px">
  
 ##Part G. 
  ###Write a paragraph how you are doing this activity:
