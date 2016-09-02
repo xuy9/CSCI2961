@@ -16,6 +16,14 @@ Short paragraph of what you got out of reading that chapter of Free Culture:
  the internet encourages me to try to the same. I think i will shortly starting to tinker around through this course. And it is good to 
  be curious and willing to explore. The internet is probably a very powerful tool to get start with, if one wish to explore.
  
+##Part D.
+
+ Image of directory structure:
+ 
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.12.10%20PM.png" width="350px">
+ 
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/Screen%20Shot%202016-09-02%20at%201.12.11%20PM.png" width="350px">
+ 
 ##Part E.
  Regex
  
@@ -36,6 +44,6 @@ Short paragraph of what you got out of reading that chapter of Free Culture:
  Write a paragraph how you are doing this activity:
  
   In todays lab i learned more about how to use github. I also get familiar with regular expression and Blocky games.
-  I installed and practiced features of Ubuntu.
+  On the other hand, i practiced with commands and get the directory structure of some directory files in my computrer.
  
  
