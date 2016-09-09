@@ -7,3 +7,13 @@
  Because without a explict license basically means that the author reserves all rights to the project. Since the author's intention regarding 
  usage of his or her project is unclear, one should not just use the project. If one use the project anyway, one is using the program without 
  permission and is violating the author's rights.
+
+##Part 4.
+
+
+##Part 5.
+ The reason for Android uses the Apache license 2.0 and it's kernel uses GPL v2 is that this license not only promotes the third-party to
+ contribute on developing it's Linux-based platform but also allows companies to invest and profit on the proprietary enhancements. ASL
+ license make it possible to use open-source software code without the condition of having to turn proprietary enhancements back over to the open source software community. The ASL license will attract more companies to use the Android platform because companies can keep their proprietary technologies.
+ 
+ 
