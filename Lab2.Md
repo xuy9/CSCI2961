@@ -16,4 +16,9 @@
  contribute on developing it's Linux-based platform but also allows companies to invest and profit on the proprietary enhancements. ASL
  license make it possible to use open-source software code without the condition of having to turn proprietary enhancements back over to the open source software community. The ASL license will attract more companies to use the Android platform because companies can keep their proprietary technologies.
  
+##Part 6.
+
+##Part 7.
+ For a developer a LGPL license is better, because one can have patent claim on the code. For a company a Apache/BSD license is better
+ because this license has
  
