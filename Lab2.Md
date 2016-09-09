@@ -4,9 +4,7 @@
  the one's interlectual property.
  
 ##Part 3.
- Because without a explict license basically means that the author reserves all rights to the project. Since the author's intention regarding 
- usage of his or her project is unclear, one should not just use the project. If one use the project anyway, one is using the program without 
- permission and is violating the author's rights.
+ Because without a explict license basically means that the author reserves all rights to the project. Since the author's intention regarding usage of his or her project is unclear, one should not just use the project. If one use the project anyway, one is using the program without permission and is violating the author's rights.
 
 ##Part 4.
 
@@ -16,15 +14,17 @@
  contribute on developing it's Linux-based platform but also allows companies to invest and profit on the proprietary enhancements. ASL
  license make it possible to use open-source software code without the condition of having to turn proprietary enhancements back over to the open source software community. The ASL license will attract more companies to use the Android platform because companies can keep their proprietary technologies.
  
-##Part 6.
+##Part 6. ///
 
 ##Part 7.
- For a developer Apache/BSD license is better
- because this license has
+ For a developer Apache/BSD license is better because with this license a developer can use patent claim to protect his intellectual property within the open-source condition.
  
-##Part 8.
+ 
+##Part 8.///
 
-##Part 9.
+##Part 9.///
+
+##Part 10.
 
 Website                                 |    License Present   |        License
 ----------------------------------------|----------------------|-----------------------------
