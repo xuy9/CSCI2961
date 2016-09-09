@@ -19,17 +19,17 @@
 ##Part 6.
 
 ##Part 7.
- For a developer a LGPL license is better, because one can have patent claim on the code. For a company a Apache/BSD license is better
+ For a developer Apache/BSD license is better
  because this license has
  
 ##Part 8.
 
 ##Part 9.
 
-Website                                   License Present          License
------------------------------------------------------------------------------------------
-https://github.com/AutoRoute/node              Yes             The MIT License (MIT)
-https://github.com/olivierpo/minebot           Yes             The MIT License (MIT)
-https://github.com/Robmaister/SharpNav         Yes             The MIT License (MIT)
-https://github.com/samuelyuan/GoMuellerWeb     Yes             The MIT License (MIT)
-https://github.com/oddnetworks/oddworks        Yes          Apache License, Version 2.0
+Website                                 |    License Present   |        License
+----------------------------------------|----------------------|-----------------------------
+https://github.com/AutoRoute/node       |        Yes           |  The MIT License (MIT)
+https://github.com/olivierpo/minebot    |        Yes           |  The MIT License (MIT)
+https://github.com/Robmaister/SharpNav  |        Yes           |  The MIT License (MIT)
+https://github.com/samuelyuan/GoMuellerWeb |     Yes           |  The MIT License (MIT)
+https://github.com/oddnetworks/oddworks |       Yes            | Apache License, Version 2.0
