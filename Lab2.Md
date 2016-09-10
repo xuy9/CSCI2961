@@ -18,6 +18,8 @@
 
 ##Part 7.
  For a developer Apache/BSD license is better because with this license a developer can use patent claim to protect his intellectual property within the open-source condition.
+ For a company 
+ For the common good, i think the GPL license is better. Because the GPL license is strongly copyleft. It requires all derivative works to be GPL-licensed, which means that the same freedom and rights for everyone. Also under GPL license one must make the source code available for everyone, so that others can study and use it. 
  
  
 ##Part 8.///
