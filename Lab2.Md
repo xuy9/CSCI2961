@@ -7,7 +7,7 @@
  Because without a explict license basically means that the author reserves all rights to the project. Since the author's intention regarding usage of his or her project is unclear, one should not just use the project. If one use the project anyway, one is using the program without permission and is violating the author's rights.
 
 ##Part 4.
-
+ I agree with the author on his claim of why Web beat Gopher. After reading the history of development and resource of Gopher and Web, i think that the defeat of Gopher is inevitable. On a technical level, Gopher not only does not support more user-efficient model as Web does  hypertext, but also it's interface is technically inferior to Web's interface Mosaic. I think that the technical inferiority is already a major kill for Gopher, let along it's bad social publicity and lesser institutional influences. In this case of Gopher vs Web, Web clearly has overwhelming advantages over Gopher and Gopher itself has many limits, both of which eventually lead to the failure of Gopher. 
 
 ##Part 5.
  The reason for Android uses the Apache license 2.0 and it's kernel uses GPL v2 is that this license not only promotes the third-party to
