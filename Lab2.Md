@@ -21,6 +21,8 @@
  
 ##Part 9.
  The project my team is going to work on is called BOOKGO. We are going to create a wedsite, that enables rpi students to exchange books with ease. The result of this project will hopefully help the student to obtain the books they need at minimum cost and help to maximize the value of our books. Our customers are rpi students and staffs. The MIT license is what we choose for this project, because we want to enable other people to freely to use and contribute to our code.
+ 
+ <https://github.com/yanx611/BOOKGO>
 
 ##Part 10.
 
