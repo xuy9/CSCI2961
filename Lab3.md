@@ -25,4 +25,5 @@
 <https://github.com/mskmoorthy/NewStory-Fall2016/blob/master/xuy9.md>
 <https://github.com/mskmoorthy/NewStory-Fall2016/blob/master/Table6_Xu.md>
 
+<https://github.com/asingh9/Story-Fall2016/blob/table7/lab3XYY.md>
 
