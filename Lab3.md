@@ -22,4 +22,7 @@
 ###3-4
 <https://github.com/xuy9/courseproject.git>
 
+<https://github.com/mskmoorthy/NewStory-Fall2016/blob/master/xuy9.md>
+<https://github.com/mskmoorthy/NewStory-Fall2016/blob/master/Table6_Xu.md>
+
 
