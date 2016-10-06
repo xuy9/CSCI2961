@@ -20,9 +20,20 @@
 
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/S3.png" width="450px">
  
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/CMakeLists3.txt>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/MathFunctions3.h>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/TutorialConfig3.h.in>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/mysqrt3.cxx>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/tutorial3.cxx>
+ 
 ##Step4
 
  <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/S4.png" width="450px">
+ 
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/CMakeLists4.txt>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/CMakeLists44.txt>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/MathFunctions4.h>
+ <>
  
 ##Step5
 
