@@ -33,8 +33,18 @@
  <https://github.com/xuy9/CSCI2961/blob/master/graph/CMakeLists4.txt>
  <https://github.com/xuy9/CSCI2961/blob/master/graph/CMakeLists44.txt>
  <https://github.com/xuy9/CSCI2961/blob/master/graph/MathFunctions4.h>
- <>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/TutorialConfig4.h.in>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/mysqrt4.cxx>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/tutorial4.cxx>
  
 ##Step5
 
  <img src ="https://github.com/xuy9/CSCI2961/blob/master/graph/S5.png" width="450px">
+ 
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/CMakeLists5.txt>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/CMakeLists55.txt>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/MakeTable5.cxx>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/MathFunctions5.h>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/TutorialConfig5.h.in>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/mysqrt5.cxx>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/tutorial5.cxx>
