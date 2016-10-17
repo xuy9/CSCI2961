@@ -36,4 +36,13 @@
    <img src ="https://github.com/xuy9/CSCI2961/blob/master/graph/WSOU.png" width = "800px">
    
    
+   SymphonySketch:
+   
+   Leader: None 
+   
+   Youtube link: < https://youtu.be/pxMqsF6Z8L4>
+   
+   <img src ="https://github.com/xuy9/CSCI2961/blob/master/graph/SSS.png" width = "800px">
+   
+   
    
