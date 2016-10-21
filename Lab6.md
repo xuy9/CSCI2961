@@ -44,5 +44,10 @@
    
    <img src ="https://github.com/xuy9/CSCI2961/blob/master/graph/SSS.png" width = "800px">
    
+##Part2
+ <img src = "https://github.com/xuy9/CSCI2961/blob/master/graph/LAB6.png" width="800px">
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/test_markdown_unittest.py>
+ <https://github.com/xuy9/CSCI2961/blob/master/graph/markdown.py>
+   
    
    
